@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=150&section=header"/> 
 
-### Olá! Me chamo Mariana Gonçalves.
+<h3 style="color:#7FFFD4">Olá, me chamo Mariana Gonçalves!</h3>
 <div>
   
 ##### Sobre Mim: 
