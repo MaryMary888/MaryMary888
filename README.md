@@ -12,5 +12,8 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=0D1117)
 ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-34495E?style=for-the-badge&labelColor=gray&logoColor=white)
 
+##### Principais Projetos:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaryMary888&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ##### Contato:
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](www.linkedin.com/in/mariana-goncalves-silva)
