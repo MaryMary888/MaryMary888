@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=80&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=30&section=header"/> 
 
 ### Olá! Me chamo Mariana Gonçalves.
 <div>
