@@ -7,7 +7,7 @@
 
 ##### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=gold)&nbsp; 
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&labelColor=gray)
+![SQL](https://img.shields.io/badge/-SQL-56070C?style=for-the-badge&labelColor=gray)
 
 ##### Contato:
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](www.linkedin.com/in/mariana-goncalves-silva)
