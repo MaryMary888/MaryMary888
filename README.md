@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=150&section=header"/> 
 
-<h3 align="center"> <span style="color:#7FFFD4">Olá, Me chamo Mariana Gonçalves!</span> </h3>
+<h3 align="center"> Olá, Me chamo Mariana Gonçalves!</h3>
 
 <div>
   
